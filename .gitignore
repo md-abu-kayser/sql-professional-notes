@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Database files / local test data
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Dependency / build artifacts (if tooling is added later)
+node_modules/
+__pycache__/
+*.pyc

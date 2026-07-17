@@ -1,0 +1,33 @@
+# User Accounts And Roles
+
+> Section: Security And User Management
+
+## Overview
+
+_TODO: describe what user accounts and roles is and why it matters in professional SQL work._
+
+## Key Points
+
+- _Point one_
+- _Point two_
+- _Point three_
+
+## Example
+
+```sql
+-- TODO: add a runnable example illustrating user accounts and roles
+SELECT 1;
+```
+
+## Common Pitfalls
+
+- _Pitfall one_
+- _Pitfall two_
+
+## Related Topics
+
+- _Link related notes here_
+
+## References
+
+- _Add books, docs, or articles here_

@@ -1,33 +1,7 @@
-# Over And Partition By
-
-> Section: Window Functions
-
-## Overview
-
-_TODO: describe what over and partition by is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
+# OVER & PARTITION BY
 
 ```sql
--- TODO: add a runnable example illustrating over and partition by
-SELECT 1;
+SELECT name, department, salary,
+  AVG(salary) OVER (PARTITION BY department) AS dept_avg
+FROM employees;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

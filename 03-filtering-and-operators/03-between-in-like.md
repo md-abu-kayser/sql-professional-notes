@@ -1,33 +1,7 @@
-# Between In Like
+# BETWEEN, IN, LIKE
 
-> Section: Filtering And Operators
+- `BETWEEN x AND y` (inclusive)
+- `IN (list)` for multiple values
+- `LIKE` with `%` and `_` wildcards
 
-## Overview
-
-_TODO: describe what between in like is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating between in like
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Regex & Pattern Matching](04-regex-and-pattern-matching.md)

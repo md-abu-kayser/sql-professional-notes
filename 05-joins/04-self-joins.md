@@ -1,33 +1,9 @@
-# Self Joins
+# Self‑Joins
 
-> Section: Joins
-
-## Overview
-
-_TODO: describe what self joins is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
+Join a table to itself. Use aliases.
 
 ```sql
--- TODO: add a runnable example illustrating self joins
-SELECT 1;
+SELECT e.name, m.name AS manager
+FROM employees e
+LEFT JOIN employees m ON e.manager_id = m.id;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

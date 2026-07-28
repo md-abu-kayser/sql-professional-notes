@@ -1,33 +1,9 @@
 # Joining Multiple Tables
 
-> Section: Joins
-
-## Overview
-
-_TODO: describe what joining multiple tables is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
 ```sql
--- TODO: add a runnable example illustrating joining multiple tables
-SELECT 1;
+SELECT u.name, o.order_date, p.product_name
+FROM users u
+JOIN orders o ON u.id = o.user_id
+JOIN order_items oi ON o.id = oi.order_id
+JOIN products p ON oi.product_id = p.id;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

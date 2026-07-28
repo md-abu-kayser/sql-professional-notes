@@ -1,33 +1,5 @@
-# Cross Join
+# CROSS JOIN
 
-> Section: Joins
+Cartesian product of two tables. `SELECT * FROM a CROSS JOIN b;` (or `FROM a, b`).
 
-## Overview
-
-_TODO: describe what cross join is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating cross join
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Self‑Joins](04-self-joins.md)

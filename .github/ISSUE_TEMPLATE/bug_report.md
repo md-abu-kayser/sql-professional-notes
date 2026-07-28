@@ -1,22 +1,15 @@
 ---
 name: Bug report
-about: Report incorrect or misleading information in a note
+about: Report a SQL‑related issue
 title: "[BUG] "
 labels: bug
+assignees: ""
 ---
 
-## Which file is affected?
+**Describe the bug**
+**To Reproduce**
+**Expected behavior**
+**Environment:**
 
-<!-- e.g. 09-indexing/05-partial-and-functional-indexes.md -->
-
-## What's incorrect?
-
-<!-- Describe the inaccurate or outdated information -->
-
-## Suggested correction
-
-<!-- If you know the fix, describe it here -->
-
-## Database engine (if relevant)
-
-<!-- PostgreSQL / MySQL / SQLite / SQL Server / Oracle / ANSI SQL -->
+- Database & version:
+- Client/IDE:

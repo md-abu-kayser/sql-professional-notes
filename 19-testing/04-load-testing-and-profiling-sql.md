@@ -1,33 +1,5 @@
-# Load Testing And Profiling SQL
+# Load Testing & Profiling SQL
 
-> Section: Testing
+`pgbench`, `sysbench`. Profile with `EXPLAIN ANALYZE`.
 
-## Overview
-
-_TODO: describe what load testing and profiling sql is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating load testing and profiling sql
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **20-real-world-projects** – [Ecommerce Database Design](../20-real-world-projects/01-ecommerce-database-design/01-schema-and-erd.md)

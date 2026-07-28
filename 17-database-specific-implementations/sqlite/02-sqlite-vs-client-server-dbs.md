@@ -1,33 +1,5 @@
-# Sqlite Vs Client Server Dbs
+# SQLite vs Client‑Server DBs
 
-> Section: Database Specific Implementations
+No concurrency, limited to single writer at a time. Use for local data, not multi‑user servers.
 
-## Overview
-
-_TODO: describe what sqlite vs client server dbs is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating sqlite vs client server dbs
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **SQL Server** – [T‑SQL & Windows Functions](../sql-server/01-t-sql-and-windows-functions.md)

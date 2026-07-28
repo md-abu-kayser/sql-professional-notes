@@ -1,33 +1,6 @@
-# Insert Multiple Rows And Select Into
-
-> Section: Data Manipulation
-
-## Overview
-
-_TODO: describe what insert multiple rows and select into is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
+# INSERT Multiple Rows & SELECT INTO
 
 ```sql
--- TODO: add a runnable example illustrating insert multiple rows and select into
-SELECT 1;
+INSERT INTO users (name, email) VALUES ('A', 'a@b.com'), ('B', 'b@b.com');
+INSERT INTO active_users (id, name) SELECT id, name FROM users WHERE active = true;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

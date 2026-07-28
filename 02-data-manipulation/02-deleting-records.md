@@ -1,33 +1,6 @@
 # Deleting Records
 
-> Section: Data Manipulation
-
-## Overview
-
-_TODO: describe what deleting records is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
 ```sql
--- TODO: add a runnable example illustrating deleting records
-SELECT 1;
+DELETE FROM users WHERE id = 2;
+TRUNCATE TABLE users; -- faster, removes all rows
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

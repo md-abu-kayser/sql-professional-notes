@@ -1,33 +1,5 @@
-# Pivot And Unpivot Crosstab
+# Pivot & Unpivot
 
-> Section: Advanced Sql Techniques
+Convert rows to columns. PostgreSQL: `crosstab` (tablefunc). SQL Server: `PIVOT` operator.
 
-## Overview
-
-_TODO: describe what pivot and unpivot crosstab is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating pivot and unpivot crosstab
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [JSON & XML in SQL](03-json-and-xml-in-sql.md)

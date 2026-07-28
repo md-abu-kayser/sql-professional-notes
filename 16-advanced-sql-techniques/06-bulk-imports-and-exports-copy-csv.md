@@ -1,33 +1,5 @@
-# Bulk Imports And Exports Copy CSV
+# Bulk Imports & Exports
 
-> Section: Advanced Sql Techniques
+`COPY table FROM '/path/to/file.csv' CSV HEADER;` (PostgreSQL). MySQL: `LOAD DATA INFILE`.
 
-## Overview
-
-_TODO: describe what bulk imports and exports copy csv is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating bulk imports and exports copy csv
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **17-database-specific-implementations** – [PostgreSQL Unique Features](../17-database-specific-implementations/postgresql/01-postgresql-unique-features.md)

@@ -1,33 +1,5 @@
-# Lateral Joins And Cross Apply
+# LATERAL Joins & CROSS APPLY
 
-> Section: Advanced Sql Techniques
+Join to a subquery that can reference previous table columns. PostgreSQL: `LATERAL`. SQL Server: `CROSS APPLY`.
 
-## Overview
-
-_TODO: describe what lateral joins and cross apply is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating lateral joins and cross apply
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Pivot & Unpivot – CROSSTAB](02-pivot-and-unpivot-crosstab.md)

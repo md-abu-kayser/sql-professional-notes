@@ -1,16 +1,15 @@
-## Summary
+## Description
 
-<!-- What does this PR add or change? -->
+Fixes # (issue)
 
-## Related issue
+## Type of change
 
-<!-- Link the issue this addresses, if any -->
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Code refactor
 
 ## Checklist
 
-- [ ] Follows the standard note template (Overview, Key Points, Example, Common
-      Pitfalls, Related Topics, References)
-- [ ] SQL examples are runnable and tested against the stated engine
-- [ ] Filenames are lowercase, hyphenated, and numbered correctly
-- [ ] Cross-links to related notes added where relevant
-- [ ] No duplicate content with existing notes
+- [ ] My code follows style guidelines
+- [ ] I have performed a self-review

@@ -1,33 +1,5 @@
-# Query Cost And Cardinality Estimates
+# Query Cost & Cardinality Estimates
 
-> Section: Query Optimization
+Cost is unitless. Cardinality = estimated number of rows. Keep statistics up to date with `ANALYZE`.
 
-## Overview
-
-_TODO: describe what query cost and cardinality estimates is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating query cost and cardinality estimates
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Optimizing JOINs & WHERE Clauses](04-optimizing-joins-and-where-clauses.md)

@@ -1,33 +1,7 @@
-# Auditing And Logging
+# Auditing & Logging
 
-> Section: Security And User Management
+- PostgreSQL: `pgaudit`.
+- MySQL: `audit_log` plugin.
+- SQL Server: SQL Server Audit.
 
-## Overview
-
-_TODO: describe what auditing and logging is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating auditing and logging
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **14-window-functions** – [OVER & PARTITION BY](../14-window-functions/01-over-and-partition-by.md)

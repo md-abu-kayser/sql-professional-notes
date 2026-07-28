@@ -1,33 +1,5 @@
-# Column Level Security And Masking
+# Column‑Level Security & Masking
 
-> Section: Security And User Management
+Grant column‑specific permissions. Dynamic data masking (SQL Server). Use views to restrict columns.
 
-## Overview
-
-_TODO: describe what column level security and masking is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating column level security and masking
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [SQL Injection & Prevention](05-sql-injection-and-prevention.md)

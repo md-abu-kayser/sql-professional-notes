@@ -1,33 +1,5 @@
 # Math Functions
 
-> Section: Functions And Aggregations
+`ROUND()`, `CEIL()`, `FLOOR()`, `ABS()`, `POWER()`, `SQRT()`.
 
-## Overview
-
-_TODO: describe what math functions is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating math functions
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Conditional Expressions – CASE, COALESCE, NULLIF](06-conditional-expressions-case-coalesce-nullif.md)

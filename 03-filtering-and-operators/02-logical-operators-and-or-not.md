@@ -1,33 +1,5 @@
-# Logical Operators And Or Not
+# Logical Operators
 
-> Section: Filtering And Operators
+`AND`, `OR`, `NOT`. Use parentheses to group conditions.
 
-## Overview
-
-_TODO: describe what logical operators and or not is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating logical operators and or not
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [BETWEEN, IN, LIKE](03-between-in-like.md)

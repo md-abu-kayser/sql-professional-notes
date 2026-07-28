@@ -1,33 +1,5 @@
-# Count Sum Avg Min Max
-
-> Section: Functions And Aggregations
-
-## Overview
-
-_TODO: describe what count sum avg min max is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
+# Aggregate Functions
 
 ```sql
--- TODO: add a runnable example illustrating count sum avg min max
-SELECT 1;
+SELECT COUNT(*), AVG(age), MIN(age), MAX(age) FROM users;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

@@ -1,33 +1,5 @@
-# Cascading Updates And Deletes
+# Cascading Updates & Deletes
 
-> Section: Schema Design And Data Modeling
+Define behavior when parent row changes. Use wisely to avoid unintended data loss.
 
-## Overview
-
-_TODO: describe what cascading updates and deletes is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating cascading updates and deletes
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Inheritance Patterns – Single Table, Class Table](07-inheritance-patterns-single-table-class-table.md)

@@ -1,33 +1,7 @@
-# Inheritance Patterns Single Table Class Table
+# Inheritance Patterns
 
-> Section: Schema Design And Data Modeling
+- Single Table: all types in one table with nullable columns.
+- Class Table: separate table per subclass.
+- Concrete Table: each type its own table.
 
-## Overview
-
-_TODO: describe what inheritance patterns single table class table is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating inheritance patterns single table class table
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Temporal Tables & Slowly Changing Dimensions](08-temporal-tables-and-slowly-changing-dimensions.md)

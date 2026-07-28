@@ -1,33 +1,5 @@
-# Entity Relationship Diagrams ERD
+# Entity‑Relationship Diagrams (ERD)
 
-> Section: Schema Design And Data Modeling
+Visualize tables, columns, relationships. Tools: dbdiagram.io, MySQL Workbench, pgAdmin.
 
-## Overview
-
-_TODO: describe what entity relationship diagrams erd is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating entity relationship diagrams erd
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Primary Keys – Surrogate vs Natural](04-primary-keys-surrogate-vs-natural.md)

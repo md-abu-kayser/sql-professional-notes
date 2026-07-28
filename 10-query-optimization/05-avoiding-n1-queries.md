@@ -1,33 +1,5 @@
 # Avoiding N+1 Queries
 
-> Section: Query Optimization
+Use JOINs or batch fetching. ORMs like Prisma/Entity Framework can cause N+1.
 
-## Overview
-
-_TODO: describe what avoiding n+1 queries is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating avoiding n+1 queries
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Query Cache & Preparation](06-query-cache-and-preparation.md)

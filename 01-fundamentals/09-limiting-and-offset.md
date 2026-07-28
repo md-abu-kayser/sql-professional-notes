@@ -1,33 +1,6 @@
-# Limiting And Offset
-
-> Section: Fundamentals
-
-## Overview
-
-_TODO: describe what limiting and offset is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
+# LIMIT & OFFSET
 
 ```sql
--- TODO: add a runnable example illustrating limiting and offset
-SELECT 1;
+SELECT * FROM users LIMIT 10;
+SELECT * FROM users LIMIT 10 OFFSET 20;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

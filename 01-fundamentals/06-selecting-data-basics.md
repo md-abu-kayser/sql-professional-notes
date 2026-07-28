@@ -1,6 +1,6 @@
-# Filtering with WHERE
+# Selecting Data – Basics
 
 ```sql
-SELECT * FROM users WHERE name = 'Alice';
-SELECT * FROM users WHERE age >= 18;
+SELECT * FROM users;
+SELECT name, email FROM users;
 ```

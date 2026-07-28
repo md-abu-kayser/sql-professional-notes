@@ -1,33 +1,6 @@
-# Filtering With Where
-
-> Section: Fundamentals
-
-## Overview
-
-_TODO: describe what filtering with where is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
+# Filtering with WHERE
 
 ```sql
--- TODO: add a runnable example illustrating filtering with where
-SELECT 1;
+SELECT * FROM users WHERE name = 'Alice';
+SELECT * FROM users WHERE age >= 18;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

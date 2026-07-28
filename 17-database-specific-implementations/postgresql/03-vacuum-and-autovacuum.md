@@ -1,33 +1,5 @@
-# Vacuum And Autovacuum
+# VACUUM & Autovacuum
 
-> Section: Database Specific Implementations
+Reclaim dead tuple space. Autovacuum runs automatically. Monitor and tune.
 
-## Overview
-
-_TODO: describe what vacuum and autovacuum is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating vacuum and autovacuum
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Replication & Clustering](04-replication-and-clustering.md)

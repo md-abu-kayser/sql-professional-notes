@@ -1,33 +1,8 @@
-# Begin Commit Rollback
-
-> Section: Transactions And Concurrency
-
-## Overview
-
-_TODO: describe what begin commit rollback is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
+# BEGIN, COMMIT, ROLLBACK
 
 ```sql
--- TODO: add a runnable example illustrating begin commit rollback
-SELECT 1;
+BEGIN;
+UPDATE accounts SET balance = balance - 100 WHERE id = 1;
+UPDATE accounts SET balance = balance + 100 WHERE id = 2;
+COMMIT; -- or ROLLBACK;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

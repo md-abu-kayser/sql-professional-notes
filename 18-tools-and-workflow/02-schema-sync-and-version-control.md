@@ -1,33 +1,5 @@
-# Schema Sync And Version Control
+# Schema Sync & Version Control
 
-> Section: Tools And Workflow
+Keep database schema in Git. Use migration scripts. Avoid manual changes.
 
-## Overview
-
-_TODO: describe what schema sync and version control is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating schema sync and version control
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [SQL Linting & Formatting](03-sql-linting-and-formatting.md)

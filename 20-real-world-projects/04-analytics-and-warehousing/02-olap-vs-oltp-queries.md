@@ -1,33 +1,5 @@
-# OLAP Vs OLTP Queries
+# OLAP vs OLTP Queries
 
-> Section: Real World Projects
+OLTP: transactional, many small operations. OLAP: analytical, aggregations over large data.
 
-## Overview
-
-_TODO: describe what olap vs oltp queries is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating olap vs oltp queries
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **Time‑Series & IoT Data** – [Schema for Time‑Series](../05-time-series-and-iot-data/01-schema-for-time-series.md)

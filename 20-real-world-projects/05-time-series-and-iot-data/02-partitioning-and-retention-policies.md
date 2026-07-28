@@ -1,33 +1,5 @@
-# Partitioning And Retention Policies
+# Partitioning & Retention Policies
 
-> Section: Real World Projects
+Partition by month. Drop old partitions automatically.
 
-## Overview
-
-_TODO: describe what partitioning and retention policies is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating partitioning and retention policies
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **21-code-snippets** – [pagination-pattern.sql](../21-code-snippets/pagination-pattern.sql)

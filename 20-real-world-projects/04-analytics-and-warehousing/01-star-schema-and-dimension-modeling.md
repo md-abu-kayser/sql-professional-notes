@@ -1,33 +1,5 @@
-# Star Schema And Dimension Modeling
+# Star Schema & Dimension Modeling
 
-> Section: Real World Projects
+Fact tables, dimension tables. Slowly changing dimensions.
 
-## Overview
-
-_TODO: describe what star schema and dimension modeling is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating star schema and dimension modeling
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [OLAP vs OLTP Queries](02-olap-vs-oltp-queries.md)

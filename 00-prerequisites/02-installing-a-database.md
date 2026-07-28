@@ -1,33 +1,8 @@
-# Installing A Database
+# Installing a Database
 
-> Section: Prerequisites
+- **PostgreSQL**: `brew install postgresql` or Docker `postgres:16`
+- **MySQL**: `brew install mysql` or Docker `mysql:8`
+- **SQLite**: Pre‑installed on most systems.
+  Choose one to practice.
 
-## Overview
-
-_TODO: describe what installing a database is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating installing a database
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Database Clients & IDEs](03-database-clients-and-ides.md)

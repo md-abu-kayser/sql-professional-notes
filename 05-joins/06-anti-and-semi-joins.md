@@ -1,33 +1,6 @@
-# Anti And Semi Joins
+# Anti & Semi‑Joins
 
-> Section: Joins
+- Semi‑join: check existence using `EXISTS` or `IN`.
+- Anti‑join: find records without match using `NOT EXISTS` or `LEFT JOIN ... WHERE NULL`.
 
-## Overview
-
-_TODO: describe what anti and semi joins is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating anti and semi joins
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Join Algorithms – Nested Loop, Hash, Merge](07-join-algorithms-nested-loop-hash-merge.md)

@@ -1,33 +1,7 @@
-# Join Algorithms Nested Loop Hash Merge
+# Join Algorithms
 
-> Section: Joins
+- Nested Loop: for each row in outer, scan inner (with index).
+- Hash Join: build hash table, probe.
+- Merge Join: both inputs sorted.
 
-## Overview
-
-_TODO: describe what join algorithms nested loop hash merge is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating join algorithms nested loop hash merge
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **06-subqueries-and-set-operations** – [Scalar Subqueries](../06-subqueries-and-set-operations/01-scalar-subqueries.md)

@@ -1,33 +1,5 @@
-# Escape Characters And Strings
+# Escape Characters & Strings
 
-> Section: Filtering And Operators
+Single quotes for strings. Escape single quote by doubling it (`'O''Brien'`). Use `E'...'` for escape sequences in PostgreSQL.
 
-## Overview
-
-_TODO: describe what escape characters and strings is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating escape characters and strings
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **04-functions-and-aggregations** – [COUNT, SUM, AVG, MIN, MAX](../04-functions-and-aggregations/01-count-sum-avg-min-max.md)

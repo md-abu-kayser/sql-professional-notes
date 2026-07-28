@@ -1,33 +1,6 @@
-# Creating And Dropping Indexes
-
-> Section: Indexing
-
-## Overview
-
-_TODO: describe what creating and dropping indexes is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
+# Creating & Dropping Indexes
 
 ```sql
--- TODO: add a runnable example illustrating creating and dropping indexes
-SELECT 1;
+CREATE INDEX idx_users_email ON users (email);
+DROP INDEX idx_users_email;
 ```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_

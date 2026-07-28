@@ -1,33 +1,5 @@
-# Error Handling In Procedures
+# Error Handling in Procedures
 
-> Section: Stored Procedures And Functions
+`EXCEPTION` blocks (PL/pgSQL), `TRY...CATCH` (T‑SQL). Log and re‑raise.
 
-## Overview
-
-_TODO: describe what error handling in procedures is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating error handling in procedures
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **13-security-and-user-management** – [User Accounts & Roles](../13-security-and-user-management/01-user-accounts-and-roles.md)

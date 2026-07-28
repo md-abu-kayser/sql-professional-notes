@@ -1,33 +1,5 @@
-# User Defined Functions
+# User‑Defined Functions
 
-> Section: Stored Procedures And Functions
+Return a value. Scalar or table‑valued. Can be used in queries.
 
-## Overview
-
-_TODO: describe what user defined functions is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating user defined functions
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Variables & Control Flow](03-variables-and-control-flow.md)

@@ -1,33 +1,5 @@
-# Triggers And Event Handlers
+# Triggers & Event Handlers
 
-> Section: Stored Procedures And Functions
+Fire automatically on INSERT, UPDATE, DELETE. Use for auditing, validation.
 
-## Overview
-
-_TODO: describe what triggers and event handlers is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating triggers and event handlers
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Error Handling in Procedures](06-error-handling-in-procedures.md)

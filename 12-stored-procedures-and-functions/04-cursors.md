@@ -1,33 +1,5 @@
 # Cursors
 
-> Section: Stored Procedures And Functions
+Iterate over query results row by row.
 
-## Overview
-
-_TODO: describe what cursors is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating cursors
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Triggers & Event Handlers](05-triggers-and-event-handlers.md)

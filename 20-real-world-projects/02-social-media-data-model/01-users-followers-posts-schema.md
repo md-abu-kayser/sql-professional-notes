@@ -1,33 +1,5 @@
-# Users Followers Posts Schema
+# Social Media Data Model – Schema
 
-> Section: Real World Projects
+Users, followers (join table), posts, comments, likes.
 
-## Overview
-
-_TODO: describe what users followers posts schema is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating users followers posts schema
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Feed Generation Queries](02-feed-generation-queries.md)

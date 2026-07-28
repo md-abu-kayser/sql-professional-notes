@@ -1,33 +1,7 @@
 # Tenant Isolation Approaches
 
-> Section: Real World Projects
+- Shared table + tenant_id column (with RLS).
+- Separate schema per tenant.
+- Separate database per tenant.
 
-## Overview
-
-_TODO: describe what tenant isolation approaches is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating tenant isolation approaches
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Row‑Level Security Implementation](02-row-level-security-implementation.md)

@@ -1,33 +1,5 @@
-# Row Level Security Implementation
+# Row‑Level Security Implementation
 
-> Section: Real World Projects
+PostgreSQL RLS policies, setting runtime parameter for tenant context.
 
-## Overview
-
-_TODO: describe what row level security implementation is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating row level security implementation
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: **Analytics & Warehousing** – [Star Schema & Dimension Modeling](../04-analytics-and-warehousing/01-star-schema-and-dimension-modeling.md)

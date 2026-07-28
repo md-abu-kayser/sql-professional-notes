@@ -1,33 +1,5 @@
-# Schema And ERD
+# Ecommerce Database – Schema & ERD
 
-> Section: Real World Projects
+Tables: users, products, orders, order_items, categories. ER diagram.
 
-## Overview
-
-_TODO: describe what schema and erd is and why it matters in professional SQL work._
-
-## Key Points
-
-- _Point one_
-- _Point two_
-- _Point three_
-
-## Example
-
-```sql
--- TODO: add a runnable example illustrating schema and erd
-SELECT 1;
-```
-
-## Common Pitfalls
-
-- _Pitfall one_
-- _Pitfall two_
-
-## Related Topics
-
-- _Link related notes here_
-
-## References
-
-- _Add books, docs, or articles here_
+> 📘 Next: [Inventory & Order Queries](02-inventory-and-order-queries.md)
